@@ -1,10 +1,10 @@
 ## Hi ! I'm Lisandro "Edode" Chelidze, and welcome to my Github page.
 
 ---
-### I'm currently a student in Cybersecurity, but I'm working in Stormshield as an apprentice.
+### I'm currently a CERT Analyst at Almond.
 - Golang | Python | Rust Developer
 - Linux enthusiastic
-- I love making codes bug free
+- I like Ducks
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisandro-git&layout=compact&show_icons=true&theme=radical)
